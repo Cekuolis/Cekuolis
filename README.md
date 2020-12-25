@@ -32,6 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Eclipse" width="78px" src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" />
+<img align="left" alt="IntelJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg" />
 <img align="left" alt="CAL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_c_al_icon_130708.png" />
 
 <br />
