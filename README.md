@@ -43,6 +43,10 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Cekuolis GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cekuolis&show_icons=true&hide_border=false&count_private=true&show_icons=true&theme=radical" />
 
+  <summary>:zap: Languages</summary>
+  <img align="left" alt="Cekuolis languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+
 </details>
 
 [linkedin]: https://www.linkedin.com/in/algimantas-valavicius-3673a1140/
