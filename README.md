@@ -41,7 +41,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Cekuolis GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cekuolis&show_icons=true&hide_border=true" />
+  <img align="left" alt="Cekuolis GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cekuolis&show_icons=true&hide_border=false" />
 
 </details>
 
