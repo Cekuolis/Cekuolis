@@ -1,6 +1,6 @@
 ### Hi there, I'm Algimantas - aka Cekuolis 👋
 
-## I'm a Developer !!
+## I'm a JAVA Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
